@@ -1,3 +1,13 @@
-https://t.me/eafc25TRADEe
-A Telegram bot designed to find undervalued player prices on FUTBIN by comparing them with current market trends. The bot scans player data, identifies profitable deals, and sends real-time notifications with detailed price breakdowns, including snipe price, potential profit, and recent sales history. It also fetches player card images for profitable deals to enhance the user experience. Ideal for FUT traders looking to capitalize on price discrepancies efficiently.
-![image](https://github.com/user-attachments/assets/51da333f-7e7b-4811-a483-704f73434436)
+# FUTcardinal (EAFC 26) — Market Analyzer
+
+Easy monitoring of profitable deals with GUI, auto-notifications in Telegram, and compact FUTBIN screenshots.
+
+
+- Auto-deals: adding a deal to the GUI + sending a notification to Telegram
+- FUTBIN screenshots directly in Telegram
+  - Automatic closing of cookie banners
+  - ‘Card + price’ cropping
+  - Fast ‘long-lived’ browser (Chrome WebDriver reuse)
+- Flexible settings from the GUI and `config_user.json`
+
+CHECK MY TG - https://t.me/ea_Futbin_trade
